@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/skutotech-presite/static/css/main.340d15bb.css",
+    "main.js": "/skutotech-presite/static/js/main.98a753df.js",
+    "static/js/787.80e72592.chunk.js": "/skutotech-presite/static/js/787.80e72592.chunk.js",
+    "static/media/laptop.jpg": "/skutotech-presite/static/media/laptop.911e0c697bc2d660bda1.jpg",
+    "static/media/skutotech.png": "/skutotech-presite/static/media/skutotech.a64148c3226be6d09c65.png",
+    "static/media/quicksand-latin-600.woff": "/skutotech-presite/static/media/quicksand-latin-600.6891aedf32783ef69334.woff",
+    "static/media/quicksand-latin-500.woff": "/skutotech-presite/static/media/quicksand-latin-500.e16bfdc463d3fa68fe5b.woff",
+    "static/media/quicksand-latin-400.woff": "/skutotech-presite/static/media/quicksand-latin-400.558969494c5e2743f1cf.woff",
+    "static/media/quicksand-latin-300.woff": "/skutotech-presite/static/media/quicksand-latin-300.c7342fbf45ae28f68801.woff",
+    "static/media/quicksand-latin-700.woff": "/skutotech-presite/static/media/quicksand-latin-700.82849a6e9f5978535d52.woff",
+    "static/media/quicksand-latin-600.woff2": "/skutotech-presite/static/media/quicksand-latin-600.07a3480d288293229838.woff2",
+    "static/media/quicksand-latin-400.woff2": "/skutotech-presite/static/media/quicksand-latin-400.4632f3d10356442aa7a6.woff2",
+    "static/media/quicksand-latin-500.woff2": "/skutotech-presite/static/media/quicksand-latin-500.4ff6e5b9ccdb25199651.woff2",
+    "static/media/quicksand-latin-700.woff2": "/skutotech-presite/static/media/quicksand-latin-700.e38cff2ded151dda276f.woff2",
+    "static/media/quicksand-latin-300.woff2": "/skutotech-presite/static/media/quicksand-latin-300.c21933f51b34fd58090f.woff2",
+    "index.html": "/skutotech-presite/index.html",
+    "main.340d15bb.css.map": "/skutotech-presite/static/css/main.340d15bb.css.map",
+    "main.98a753df.js.map": "/skutotech-presite/static/js/main.98a753df.js.map",
+    "787.80e72592.chunk.js.map": "/skutotech-presite/static/js/787.80e72592.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340d15bb.css",
+    "static/js/main.98a753df.js"
+  ]
+}
